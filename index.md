@@ -16,13 +16,22 @@ Yet it's not totally quiet, as our cries signifies the starburst.
  🌑Cosmic Connection    
 <br>
 ![Image of the Cosmos](https://static.scientificamerican.com/dam/m/90104e781fa5533/original/Cosmic-web.jpg?m=1735582985.859&w=600)
-<footer>
 <br>
  
 ``` c++
 int code = 1125;
 ```
- 
+<br>
+
+_To start your journey, here's a simple walkthrough **(float-through)**_:
+- [ ] Black Holes
+- [ ] Terrestrial Planets
+- [ ] Gas Planets  
+
+_If done, kindly tick the checkbox, **i.e**_:  
+- [x] Black Holes
+
+<footer>
   The changes made in this file: Cosmic connection between human and cosmos. <br>
   &copy 2025
 </footer>
