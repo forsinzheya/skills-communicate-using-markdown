@@ -17,6 +17,12 @@ Yet it's not totally quiet, as our cries signifies the starburst.
 <br>
 ![Image of the Cosmos](https://static.scientificamerican.com/dam/m/90104e781fa5533/original/Cosmic-web.jpg?m=1735582985.859&w=600)
 <footer>
-  The changes made in this file: Cosmic connection between human and cosmos <br>
+<br>
+ 
+``` c++
+int code = 1125;
+```
+ 
+  The changes made in this file: Cosmic connection between human and cosmos. <br>
   &copy 2025
 </footer>
