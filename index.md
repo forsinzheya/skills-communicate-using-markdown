@@ -11,11 +11,11 @@ Yet it's not totally quiet, as our cries signifies the starburst.
 [Click here](https://apod.nasa.gov/apod/calendar/allyears.html).
 
 #### It could be a/an,
-- 🌌Event Horizon
-- 🌠Stardust
-- 🌑Cosmic Connection
-<br> <br> <br>
-
+ 🌌Event Horizon    
+ 🌠Stardust    
+ 🌑Cosmic Connection    
+<br>
+![Image of the Cosmos](https://static.scientificamerican.com/dam/m/90104e781fa5533/original/Cosmic-web.jpg?m=1735582985.859&w=600)
 <footer>
   The changes made in this file: Cosmic connection between human and cosmos <br>
   &copy 2025
